@@ -1,0 +1,12 @@
+To: temleko1@gmail.com
+Subject: Заполнена контактная форма на сайте http://claralux.loc/
+X-PHP-Originating-Script: 0:contact.php
+MIME-Version: 1.0
+
+Имя пользователя: Artyom
+Email пользователя jaxxysd@mail.ru
+Телефон пользователя 89683822480
+Сообщение: Hello world!
+
+Адрес сайта: http://claralux.loc/
+--a4ed561d627e869810040789c9b12543--
